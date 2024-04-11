@@ -2,14 +2,7 @@ package Controller;
 
 import java.util.List;
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
 
->>>>>>> Stashed changes
-
-=======
->>>>>>> Stashed changes
 import Dao.BookingDao;
 import Dao.CarDao;
 import Dao.CustomerDao;
@@ -17,14 +10,7 @@ import Model.Booking;
 import Model.Car;
 import Model.Customer;
 
-<<<<<<< Updated upstream
 
-<<<<<<< Updated upstream
-=======
->>>>>>> Stashed changes
-=======
-
->>>>>>> Stashed changes
 public class CarBookingController {
     private CustomerDao customerDao;
     private CarDao carDao;
