@@ -3,6 +3,10 @@ package Controller;
 import java.util.List;
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 
 =======
 >>>>>>> Stashed changes
@@ -15,7 +19,11 @@ import Model.Customer;
 
 <<<<<<< Updated upstream
 
+<<<<<<< Updated upstream
 =======
+>>>>>>> Stashed changes
+=======
+
 >>>>>>> Stashed changes
 public class CarBookingController {
     private CustomerDao customerDao;
