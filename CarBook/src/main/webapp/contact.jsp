@@ -31,8 +31,7 @@
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
 	      <a class="navbar-brand" href="index.jsp">Car<span>Book</span></a>
-	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-	        <span class="oi oi-menu"></span> Menu
+	      
 	      </button>
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
@@ -72,7 +71,7 @@
 			          	<div class="icon mr-3">
 			          		<span class="icon-map-o"></span>
 			          	</div>
-			            <p><span>Address:</span> 198 West 21th Street, Suite 721 New York NY 10016</p>
+			            <p><span>Address:</span> Floor 03, Building 319 Ministry of National Defense, No. 63 Le Van Luong, Trung Hoa Ward, Cau Giay District, Hanoi, Vietnam</p>
 			          </div>
 		          </div>
 		          <div class="col-md-12">
@@ -88,7 +87,7 @@
 			          	<div class="icon mr-3">
 			          		<span class="icon-envelope-o"></span>
 			          	</div>
-			            <p><span>Email:</span> <a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
+			            <p><span>Email:</span> <a href="mailto:info@yoursite.com">truongtai@gmail.com</a></p>
 			          </div>
 		          </div>
 		        </div>
@@ -166,7 +165,7 @@
             	<h2 class="ftco-heading-2">Have a Questions?</h2>
             	<div class="block-23 mb-3">
 	              <ul>
-	                <li><span class="icon icon-map-marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
+	                <li><span class="icon icon-map-marker"></span><span class="text">Floor 03, Building 319 Ministry of National Defense, No. 63 Le Van Luong, Trung Hoa Ward, Cau Giay District, Hanoi, Vietnam</span></li>
 	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929 210</span></a></li>
 	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@yourdomain.com</span></a></li>
 	              </ul>
